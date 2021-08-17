@@ -1,0 +1,2 @@
+# Automated-Essay-Assesment
+Essays are of paramount importance in testing one's writing skills,vocabulary,mindset and thought process and thus there are always two or more sections of essay writing in exams like GRE,TOEFL and IELTS. This is a trained machine learning model that evaluates essays using regression analysis to analyse and compare the result and to predict the best model and method to predict the score of any essay.Another objective is to reduce human labour,time,cost and increase efficiency and give accurate and cosistent results.
